@@ -19,6 +19,7 @@
 // Output Format
 // Print a single integer, the maximum number of customers Chef can serve in 
 // Y minutes
+
 #include <iostream>
 using namespace std;
 
